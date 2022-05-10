@@ -1,0 +1,23 @@
+.table{
+    /* border: 2px solid black; */
+    /* background-color: blanchedalmond; */
+    width: 100%;
+    height: 100%;
+    border-collapse: collapse;
+
+}
+.info{
+    background-color:lemonchiffon;
+}
+.table .info th{
+    padding:8px;
+}
+th,tr,td{
+    border: 1px  solid #ddd;
+    padding:8px;
+}
+.header-flex{
+    display: flex;
+    align-items: center;
+       justify-content: space-between;
+}
